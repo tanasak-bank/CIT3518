@@ -25,4 +25,4 @@ while True:
  
     finally:
         # Clean up the connection 5555
-        connection.close() #ปิดการเชื่อมต่อ
+        connection.close() #ปิดการเชื่อมต่อ ปล ผมหล่อที่สุดในโลก
