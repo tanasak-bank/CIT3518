@@ -24,5 +24,5 @@ while True:
                 server_wait = False
  
     finally:
-        # Clean up the connection
+        # Clean up the connection 5555
         connection.close() #ปิดการเชื่อมต่อ
